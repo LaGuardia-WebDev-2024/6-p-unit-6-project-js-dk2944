@@ -12,9 +12,20 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
+// the pizza
+fill(250, 218, 122)
+triangle(69,78,313,71,192,333)
 
+// the crust
+fill (242, 159, 88)
+arc(190, 85, 230, 130, radians(180),radians(360))
   
-
+// pepperoni 
+fill (184, 0, 31)
+ellipse(122,112,30,30)
+ellipse(200,156,30,30)
+ellipse(222,104,30,30)
+ellipse(170,215,30,30)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
